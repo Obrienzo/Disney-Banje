@@ -1,22 +1,11 @@
-<div align="start">
-  <h1>👨‍💻 Obrienzo 👨‍💻</h1>
-</div>
-
+<p>Obrienzo<p>
 <p align="start">
   <em>Pushing my boundaries learning and applying various technologies to build useful tools.</em>
 </p>
 
 <br>
 
-<p align="center">
-  🚀 Fullstack aspirant | 🎨 UI recreator | 🤖 AI explorer
-</p>
-
-<br>
-
-<br>
-
-<p align="center">
+<p align="start">
   <code>const journey = ['frontend', 'backend', 'AI'];</code><br>
   <code>journey.forEach(path => learn(path));</code>
 </p>
